@@ -3,6 +3,10 @@
 
 I'm a final-year IT student at IIIT Gwalior with a passion for data analytics, machine learning, and full-stack development. Welcome to my professional GitHub profile.
 
+## Profile Visitors:
+<div >
+  <img src="https://komarev.com/ghpvc/?username=Rohit1608&color=blue" alt="profile views" />
+</div>
 ---
 
 ## About Me
