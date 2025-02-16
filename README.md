@@ -43,7 +43,7 @@ I'm a final-year IT student at IIIT Gwalior with a passion for data analytics, m
 ## Contact
 
 - **Email:** [rohitg1882001@gmail.com](mailto:rohitg1882001@gmail.com)
-- **LinkedIn:** [Rohit Gupta](https://www.linkedin.com/in/Rohit1608)
+- **LinkedIn:** [Rohit Gupta](https://www.linkedin.com/in/rohitg16/)
 - **GitHub:** [Rohit1608](https://github.com/Rohit1608)
 
 ---
