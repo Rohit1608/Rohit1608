@@ -1,7 +1,6 @@
 # Hi, I'm Rohit Gupta 👋
 
-
-I'm a final-year IT student at IIIT Gwalior with a passion for data analytics, machine learning, and full-stack development. Welcome to my professional GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and exploring new technologies and I am a final-year student at the Indian Institute of Information Technology, Gwalior (IIIT Gwalior), currently pursuing an Integrated Dual Degree (B.Tech + Masters) in Information Technology.
 
 ## Profile Visitors:
 <div >
