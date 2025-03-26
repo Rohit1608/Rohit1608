@@ -6,19 +6,16 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 <div >
   <img src="https://komarev.com/ghpvc/?username=Rohit1608&color=blue" alt="profile views" />
 </div>
+
+
+##  👨‍💻 About Me
+
+- 💡 **Currently Learning:** Full-Stack Development, System Design, and Advanced Algorithms.  
+- 💬 **Ask me about:** React, Node.js, Express.js, C/C++, and Machine Learning.  
+- 🌐 **Languages I Love:** Python, JavaScript, C/C++.  
+- 🚀 **Hobbies:** Building cool projects, solving coding challenges, and exploring new technologies.
+
 ---
-
-## About Me
-
-- **Current Role:** I’m looking to study more deeply in web development and data science.  
-- **Education:** B.Tech in Information Technology (Expected 2025) from IIIT Gwalior  
-- **Core Competencies:** Data Processing, Analysis, Trend & Pattern Detection, and Machine Learning  
-- **Development Expertise:** Proficient in full-stack development using React, Node.js, Express.js; strong command over Python, C/C++, JavaScript, HTML, and CSS  
-- **ML Experience:** Developed a CSNN-based model for object recognition
-
----
-
-
 
 ## Skills
 
